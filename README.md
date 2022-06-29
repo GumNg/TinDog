@@ -24,5 +24,8 @@ Tools i'll be using:
 - Setting up a navbar using bootstrap classes
 - Responsive grid layouts with bootstrap classes
 - Positioning of link orders in html doc
+- Adding containers with boostrap and the difference between standard and fluid containers
+- Adding button styling with bootstrap
+- Adding icons with fontawesome 
 
 
