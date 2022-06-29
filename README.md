@@ -21,4 +21,8 @@ Tools i'll be using:
 
 ### What I Learned
 
+- Setting up a navbar using bootstrap classes
+- Responsive grid layouts with bootstrap classes
+- Positioning of link orders in html doc
+
 
