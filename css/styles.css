@@ -67,6 +67,7 @@ h3 {
 .feature-icon {
   color: #ef8172;
   font-size: 4rem;
+  margin-bottom: 30px;
 }
 
 .feature-icon:hover {
