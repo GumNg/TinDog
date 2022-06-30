@@ -58,3 +58,7 @@ h1 {
 .feature-icon {
     color: #ef8172;
 }
+
+.feature-icon:hover {
+    color: #FF4C68;
+}
