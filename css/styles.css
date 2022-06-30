@@ -60,6 +60,9 @@ h3 {
 }
 
 /* Features Section */
+.features-row {
+  text-align: center;
+}
 
 .feature-icon {
   color: #ef8172;
