@@ -52,3 +52,9 @@ h1 {
   transform: rotate(25deg);
   width: 60%;
 }
+
+/* Features Section */
+
+.feature-icon {
+    color: #ef8172;
+}
