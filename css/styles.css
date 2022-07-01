@@ -65,8 +65,9 @@ h3 {
 padding: 7% 15%;
 }
 
-.features-row {
+.features-box {
   text-align: center;
+  padding: 5%;
 }
 
 .feature-icon {
