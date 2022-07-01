@@ -62,7 +62,7 @@ h3 {
 /* Features Section */
 
 #features {
-padding: 7% 15%;
+  padding: 7% 15%;
 }
 
 .features-box {
@@ -87,5 +87,8 @@ padding: 7% 15%;
 /* Testimonials Section */
 
 #testimonials {
+  background-color: #ef8172;
+  color: #fff;
   padding: 7% 15%;
+  text-align: center;
 }
