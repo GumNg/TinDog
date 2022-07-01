@@ -27,5 +27,7 @@ Tools i'll be using:
 - Adding containers with boostrap and the difference between standard and fluid containers
 - Adding button styling with bootstrap
 - Adding icons with fontawesome 
+- Adding carousel slides with bootstrap
+- Adding cards and adjusting stying and responsiveness with bootstrap
 
 
