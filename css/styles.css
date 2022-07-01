@@ -99,3 +99,9 @@ h3 {
   padding: 7% 15%;
   text-align: center;
 }
+
+.testimonials-image {
+  border-radius: 100%;
+  margin: 20px;
+  width: 10%;
+}
