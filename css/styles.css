@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container-fluid {
-  padding: 3% 15% 7%;
+  padding: 7% 15%;
 }
 
 .title-img-cont {
@@ -80,7 +80,6 @@ h1, h2, h3, h4, h5, h6 {
 #features {
   background-color: #fff;
   position: relative;
-  padding: 7% 15%;
 }
 
 .feature-title {
@@ -123,10 +122,6 @@ h1, h2, h3, h4, h5, h6 {
   width: 10%;
 }
 
-.carousel-item {
-  padding: 7% 15%;
-}
-
 /* Press Section */
 
 #press {
@@ -163,14 +158,12 @@ h1, h2, h3, h4, h5, h6 {
 #cta {
   background-color: #ff4c68;
   color: #fff;
-  padding: 7% 15%;
 }
 
 /* footer */
 
 #footer {
   background-color: #fff;
-  padding: 7% 15%;
 }
 
 .social-icon {
