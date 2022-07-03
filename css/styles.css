@@ -26,6 +26,11 @@ h3 {
   line-height: 1.5;
 }
 
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
 
 #title {
   background-color: #ff4c68;
@@ -109,6 +114,11 @@ h3 {
   background-color: #ef8172;
   color: #fff;
   text-align: center;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
 }
 
 .testimonials-image {
