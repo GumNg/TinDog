@@ -141,6 +141,12 @@ h3 {
   padding: 3% 2%;
 }
 
+/* Call to action section */
+
+#cta {
+  background-color: #ff4c68;
+}
+
 /* responsive title section */
 
 @media (max-width: 1028px) {
