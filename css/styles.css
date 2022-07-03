@@ -7,10 +7,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
 }
 
-h2 {
-  font-size: 3rem;
-  line-height: 1.5;
-}
 
 h3 {
   font-size: 1.5rem;
@@ -89,6 +85,10 @@ h3 {
   padding: 7% 15%;
 }
 
+.feature-title {
+  font-size: 1.5rem;
+}
+
 .features-box {
   text-align: center;
   padding: 5%;
@@ -149,6 +149,10 @@ h3 {
 #pricing {
   padding: 100px;
   text-align: center;
+}
+
+.pricing-title {
+  font-size: 1.5rem;
 }
 
 .price-text {
