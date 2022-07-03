@@ -29,5 +29,6 @@ Tools i'll be using:
 - Adding icons with fontawesome 
 - Adding carousel slides with bootstrap
 - Adding cards and adjusting stying and responsiveness with bootstrap
+- Using media query to adjust elements based on max and min width display
 
 
