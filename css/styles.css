@@ -148,6 +148,13 @@ h3 {
   text-align: center;
 }
 
+.cta-title {
+  color: #fff;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
 /* responsive title section */
 
 @media (max-width: 1028px) {
