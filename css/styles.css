@@ -23,20 +23,13 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
 }
 
-/* title section */
-
-#title {
-  background-color: #ff4c68;
-  text-align: left;
-}
+/* containers */
 
 .container-fluid {
   padding: 7% 15%;
 }
 
-.title-img-cont {
-  position: relative;
-}
+
 
 /* Navigation Bar */
 
@@ -58,6 +51,21 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.2rem;
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
+}
+
+/* title section */
+
+#title {
+  background-color: #ff4c68;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.title-img-cont {
+  position: relative;
 }
 
 /* Download Buttons */
