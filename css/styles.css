@@ -155,6 +155,12 @@ h3 {
   line-height: 1.5;
 }
 
+/* footer */
+
+#footer {
+  text-align: center;
+}
+
 /* responsive title section */
 
 @media (max-width: 1028px) {
