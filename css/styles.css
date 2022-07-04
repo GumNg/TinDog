@@ -65,12 +65,9 @@ h1, h2, h3, h4, h5, h6 {
 
 /* title section */
 
-#title {
-  text-align: left;
-}
-
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 .title-img-cont {
