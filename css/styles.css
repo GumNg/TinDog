@@ -29,6 +29,16 @@ h1, h2, h3, h4, h5, h6 {
   padding: 7% 15%;
 }
 
+/* Sections */
+
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
 
 
 /* Navigation Bar */
@@ -56,7 +66,6 @@ h1, h2, h3, h4, h5, h6 {
 /* title section */
 
 #title {
-  background-color: #ff4c68;
   text-align: left;
 }
 
@@ -86,7 +95,6 @@ h1, h2, h3, h4, h5, h6 {
 /* Features Section */
 
 #features {
-  background-color: #fff;
   position: relative;
 }
 
@@ -116,7 +124,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #testimonials {
   background-color: #ef8172;
-  color: #fff;
 }
 
 .testimonial-text {
@@ -163,16 +170,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Call to action section */
 
-#cta {
-  background-color: #ff4c68;
-  color: #fff;
-}
+
 
 /* footer */
 
-#footer {
-  background-color: #fff;
-}
+
 
 .social-icon {
   margin: 20px 10px;
